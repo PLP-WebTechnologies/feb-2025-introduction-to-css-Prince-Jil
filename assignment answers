@@ -1,0 +1,12 @@
+#google{color:greenyellow; text-decoration:none; font-weight:bold}
+.home-footer{color:chartreuse;
+font-weight: bold}
+body {background-image: url('images/pic.jpg');
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center
+} 
+div {border: 3px solid black;
+padding:50px }
+img{margin:20px 15px 5px 10px
+}
